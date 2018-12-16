@@ -1,10 +1,11 @@
 ---
 title: "Planning Stage"
 date: 2018-12-16T02:03:45-06:00
-draft: true
 ---
 
 Currently in planning stage.
+
+If you want email notifications, tell me the best way to do that, because I did some research but I couldn't find an easy way to do that.
 
 Current progress:
 
