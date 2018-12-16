@@ -1,7 +1,7 @@
 [build]
   command = "hugo"
-  publish = "public"
-  base = "pp-website"
+  publish = "pp-website/public/"
+  base = "pp-website/"
 
 [context.production.environment]
 HUGO_VERSION = "0.50"
