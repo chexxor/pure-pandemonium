@@ -5,7 +5,7 @@ A podcast targeting the PureScript users, anyone who sympathizes with the power 
 
 ## Contact
 
-- Web: pure-pandemonium.club (web page coming soon)
+- Web: www.pure-pandemonium.club
 - Twitter: https://twitter.com/PandemoniumPure
 - Email Notifications: (to do)
 - Email Contact: mgmt @ pure-pandemonium.club
