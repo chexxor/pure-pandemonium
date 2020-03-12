@@ -9,8 +9,8 @@ If you want email notifications, tell me the best way to do that, because I did 
 
 Current progress:
 
-- Website: [pure-pandemonium.club](https://pure-pandemonium.club)
-- Twitter: [twitter.com/PandemoniumPure](https://twitter.com/PandemoniumPure)
+- Website: [www.pure-pandemonium.club](https://www.pure-pandemonium.club)
+- Twitter: [@PandemoniumPure](https://twitter.com/PandemoniumPure)
 - Email Contact: mgmt @ pure-pandemonium.club
 - Email Notifications: (no idea how)
 - GitHub: [github.com/chexxor/pure-pandemonium](https://github.com/chexxor/pure-pandemonium)

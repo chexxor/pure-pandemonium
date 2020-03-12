@@ -9,3 +9,4 @@ A podcast targeting the PureScript users, anyone who sympathizes with the power 
 - Twitter: https://twitter.com/PandemoniumPure
 - Email Notifications: (to do)
 - Email Contact: mgmt @ pure-pandemonium.club
+- GitHub: [github.com/chexxor/pure-pandemonium](https://github.com/chexxor/pure-pandemonium)
